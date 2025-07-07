@@ -1,5 +1,4 @@
-# SmartGroceryPOS
-# 🧑‍💼 SmartGroceryPOS – Customer Billing System
+## 🧑‍💼 SmartGroceryPOS – Customer Billing System
 If you are using Jupyter Notebook
 ## Basing Jupyter NoteBook Grocery App
 ├── grocery.ipynb              # 📓 Interactive Jupyter Notebook version
