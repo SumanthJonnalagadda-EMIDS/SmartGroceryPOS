@@ -1,20 +1,19 @@
 ## 🧑‍💼 SmartGroceryPOS – Customer Billing System
 If you are using Jupyter Notebook
-## Basing Jupyter NoteBook Grocery App
-├── grocery.ipynb              # 📓 Interactive Jupyter Notebook version
-├── items.csv                  # 🧺 Item list with prices
-├── invoice_records.csv        # 🧾 Automatically created after purchase
-├── feedback_records.csv       # 💬 Automatically Stores customer feedback
+Basing_Jupyter_Grocery_App:
+  -grocery.ipynb: "📓 Interactive Jupyter Notebook version"
+  -items.csv: "🧺 Item list with prices"
+  -invoice_records.csv: "🧾 Automatically created after purchase"
+  -feedback_records.csv: "💬 Automatically Stores customer feedback"
 
-## Advanced Featurs Of Grocery App done in app.py
-SmartGroceryPOS/
-├── app.py                     # 🐍 Terminal-based executable Python script
-├── items.csv                  # 🧺 Main inventory file with item names and prices
-├── invoice_records.csv        # 🧾 Automatically created file storing customer invoices
-├── feedback_records.csv       # 💬 Stores customer feedback post-purchase
-├── manufacturer_items.csv     # 🏭 Items added/managed by the manufacturer role
-├── shopkeeper_invoices.csv    # 📦 Invoices generated when shopkeeper places orders
-├── customer_feedback.csv      # 🗣️ Feedback exclusively from customer role
+SmartGroceryPOS:
+  -app.py: "🐍 Terminal-based executable Python script"
+  -items.csv: "🧺 Main inventory file with item names and prices"
+  -invoice_records.csv: "🧾 Automatically created file storing customer invoices"
+  -feedback_records.csv: "💬 Stores customer feedback post-purchase"
+  -manufacturer_items.csv: "🏭 Items added/managed by the manufacturer role"
+  -shopkeeper_invoices.csv: "📦 Invoices generated when shopkeeper places orders"
+  -customer_feedback.csv: "🗣️ Feedback exclusively from customer role"
 
 ### 🎯 Purpose:
 This project simulates how a **customer shops** at a virtual grocery store using the terminal.  
