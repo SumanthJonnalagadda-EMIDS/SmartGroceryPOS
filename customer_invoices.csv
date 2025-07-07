@@ -1,0 +1,8 @@
+Transaction ID,Customer Name,Date,Item,Quantity,Price,Item Total,Subtotal,Tax,Gov Tax,Total Amount
+e4d6672d,Sumanth,2025-07-06 13:29:36,Vim,10,20,200,375,75.0,3,453.0
+e4d6672d,Sumanth,2025-07-06 13:29:36,Apples,3,45,135,375,75.0,3,453.0
+e4d6672d,Sumanth,2025-07-06 13:29:36,DairyMilk,2,20,40,375,75.0,3,453.0
+32b799e3,Sumanth,2025-07-06 16:50:41,Apples,12,45,540,1775,355.0,3,2133.0
+32b799e3,Sumanth,2025-07-06 16:50:41,Mangoes,12,33,396,1775,355.0,3,2133.0
+32b799e3,Sumanth,2025-07-06 16:50:41,DairyMilk,40,20,800,1775,355.0,3,2133.0
+32b799e3,Sumanth,2025-07-06 16:50:41,Milk,1,39,39,1775,355.0,3,2133.0

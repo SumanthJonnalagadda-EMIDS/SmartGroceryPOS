@@ -1,0 +1,3 @@
+Transaction ID,Shopkeeper Name,Date,Item,Quantity,Price,Item Total,Subtotal,Tax,Gov Tax,Total Amount
+0b395c72,Shopkeeper,2025-07-06 13:28:52,Vim,10,20,200,200,40.0,3,243.0
+9352acaa,Shopkeeper,2025-07-06 16:52:28,Panner,2,2,4,4,0.8,3,7.8
